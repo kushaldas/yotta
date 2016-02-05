@@ -1,0 +1,15 @@
+semantic_version>=2.3.1,
+requests[security]>=2.4.3
+PyGithub>=1.25
+colorama>=0.3
+hgapi>=1.7
+Jinja2>=2.7.0
+cryptography>=0.8
+PyJWT>=1.0,<2.0
+pathlib>=1.0.1,<1.1
+jsonschema>=2.4.0
+argcomplete>=0.8.0
+mbed_test_wrapper>=0.0.2
+valinor>=0.0.0
+intelhex>=2.0
+jsonpointer>=1.9
